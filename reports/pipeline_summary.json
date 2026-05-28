@@ -1,0 +1,120 @@
+{
+    "top_endpoints": [
+        {
+            "resource_path": "/favicon.ico",
+            "request_count": 807
+        },
+        {
+            "resource_path": "/style2.css",
+            "request_count": 546
+        },
+        {
+            "resource_path": "/reset.css",
+            "request_count": 538
+        },
+        {
+            "resource_path": "/images/jordan-80.png",
+            "request_count": 533
+        },
+        {
+            "resource_path": "/images/web/2009/banner.png",
+            "request_count": 516
+        },
+        {
+            "resource_path": "/blog/tags/puppet?flav=rss20",
+            "request_count": 474
+        },
+        {
+            "resource_path": "/projects/xdotool/",
+            "request_count": 224
+        },
+        {
+            "resource_path": "/?flav=rss20",
+            "request_count": 217
+        },
+        {
+            "resource_path": "/",
+            "request_count": 197
+        },
+        {
+            "resource_path": "/robots.txt",
+            "request_count": 180
+        }
+    ],
+    "status_distribution": [
+        {
+            "status_code": 200,
+            "occurrences": 9109
+        },
+        {
+            "status_code": 304,
+            "occurrences": 442
+        },
+        {
+            "status_code": 404,
+            "occurrences": 213
+        },
+        {
+            "status_code": 301,
+            "occurrences": 164
+        },
+        {
+            "status_code": 206,
+            "occurrences": 41
+        },
+        {
+            "status_code": 500,
+            "occurrences": 3
+        },
+        {
+            "status_code": 416,
+            "occurrences": 2
+        },
+        {
+            "status_code": 403,
+            "occurrences": 2
+        }
+    ],
+    "top_ips": [
+        {
+            "ip": "66.249.73.135",
+            "hit_count": 482
+        },
+        {
+            "ip": "130.237.218.86",
+            "hit_count": 357
+        },
+        {
+            "ip": "46.105.14.53",
+            "hit_count": 351
+        },
+        {
+            "ip": "75.97.9.59",
+            "hit_count": 270
+        },
+        {
+            "ip": "50.16.19.13",
+            "hit_count": 112
+        },
+        {
+            "ip": "209.85.238.199",
+            "hit_count": 102
+        },
+        {
+            "ip": "68.180.224.225",
+            "hit_count": 99
+        },
+        {
+            "ip": "208.115.111.72",
+            "hit_count": 83
+        },
+        {
+            "ip": "100.43.83.137",
+            "hit_count": 83
+        },
+        {
+            "ip": "198.46.149.143",
+            "hit_count": 82
+        }
+    ]
+}
